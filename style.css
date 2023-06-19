@@ -1,0 +1,9 @@
+.container {
+    display: grid;
+    place-items: center;
+}
+
+p {
+    font-size: 100px;
+    font-weight: bolder;
+}
